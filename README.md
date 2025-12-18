@@ -1,20 +1,20 @@
 👋 Hi, I'm Marco Villafañe
-🐍 Python & Data Analysis | IT & Tech Background | B2B Experience
+🐍 Python & Data Analyst | IT Background | Tech & Business Mindset
 
-Soy un profesional orientado a IT y análisis de datos, actualmente enfocado en Python y Data Analytics, con una sólida base previa en Telecomunicaciones, Ciberseguridad y Desarrollo Web.
+Profesional orientado a IT y análisis de datos, enfocado en Python y Data Analytics, con experiencia previa en Telecomunicaciones, Ciberseguridad y Desarrollo Web.
 
-Cuento con más de 4 años de experiencia profesional en entornos tecnológicos, trabajando con soluciones digitales complejas, lo que me permite unir pensamiento analítico, visión de negocio y habilidades técnicas.
-Hoy busco oportunidades IT donde pueda seguir creciendo como Analista de Datos / Python Developer.
+Vengo de entornos tecnológicos reales, lo que me permite unir pensamiento analítico, contexto de negocio y habilidades técnicas.
+Actualmente busco oportunidades IT como Junior Data Analyst / Python Developer.
 
 🎯 Current Focus
 
-📊 Análisis de Datos con Python
+📊 Data Analysis con Python
 
-🐍 Automatización y scripting
+📈 Power BI & Tableau
 
-📈 Data-driven decision making
+🧮 SQL & modelado de datos
 
-🧠 Fundamentos de Inteligencia Artificial (en progreso)
+🤖 Automatización y fundamentos de IA
 
 🛠️ Tech Stack
 🐍 Lenguajes & Data
@@ -51,8 +51,6 @@ Node.js
 
 Git & GitHub
 
-ChatGPT
-
 Salesforce
 
 Sales Navigator
@@ -61,55 +59,37 @@ Apollo
 
 Lusha
 
+ChatGPT
+
 🔐 IT & Security
 
 Fundamentos de Ciberseguridad
 
 Kali Linux
 
-Soluciones Cloud & entornos tecnológicos
+Entornos Cloud & Telecom
 
-💼 Professional Background
+💼 Professional Background (Resumen)
 
-Sales Development Representative B2B – Telecom (2023 – 2025)
+B2B Tech Sales – Telecom
 
-Comercialización de soluciones tecnológicas (Cloud, Ciberseguridad, IoT).
+Trabajo con soluciones tecnológicas (Cloud, Cybersecurity, IoT)
 
-Trabajo con datos comerciales, análisis de necesidades y propuestas técnicas.
+Análisis de necesidades, datos comerciales y procesos digitales
 
-Comunicación fluida con equipos técnicos y clientes corporativos.
+Comunicación constante con perfiles técnicos y de negocio
 
-Visión integral de procesos digitales y tecnológicos.
+Esta experiencia me permite aportar visión real de negocio a proyectos de datos y tecnología.
 
-Sales Representative B2C – Movil Noa S.R.L. (2021 – 2023)
+🚀 What I Bring
 
-Gestión de datos, seguimiento de métricas y resultados.
-
-Estrategias digitales y orientación a objetivos.
-
-Esta experiencia me permite aportar contexto de negocio a proyectos técnicos y de datos.
-
-🎓 Education & Certifications
-
-Psicología – Universidad Nacional de Tucumán (en curso)
-
-Analista en Ciberseguridad – Coderhouse
-
-Front End Web Development – Raise Digital Academy
-
-Sales & Digital Business Training – Ministerio de Trabajo
-
-🚀 What I Bring to a Team
-
-Mentalidad analítica y orientada a datos
+Mentalidad data-driven
 
 Capacidad de traducir problemas reales en soluciones técnicas
 
-Experiencia en entornos IT reales
+Background IT + negocio (poco común en perfiles junior)
 
-Aprendizaje rápido y adaptación constante
-
-Comunicación clara entre perfiles técnicos y de negocio
+Aprendizaje rápido y mejora continua
 
 📌 Looking for
 
@@ -117,7 +97,7 @@ Junior / Trainee Data Analyst
 
 Python Developer
 
-IT roles con foco en datos, automatización o análisis
+Roles IT con foco en datos, análisis o automatización
 
 📫 Contact
 
@@ -125,7 +105,7 @@ IT roles con foco en datos, automatización o análisis
 
 📧 Email: marxco78@gmail.com
 
-⭐ Currently building Python & Data projects — stay tuned
+⭐ Building Python & Data projects — stay tuned
 
 <!--
 **marcovillafa13/marcovillafa13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
