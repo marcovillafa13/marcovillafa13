@@ -1,5 +1,5 @@
-👋 Hi, I'm Marco Villafañe
-🐍 Python & Data Analyst | IT Background | Tech & Business Mindset
+# 👋 Hi, I'm Marco Villafañe
+## 🐍 Python & Data Analyst | IT Background | Tech & Business Mindset
 
 Profesional orientado a IT y análisis de datos, enfocado en Python y Data Analytics, con experiencia previa en Telecomunicaciones, Ciberseguridad y Desarrollo Web.
 
