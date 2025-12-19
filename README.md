@@ -6,7 +6,7 @@ Profesional orientado a IT y análisis de datos, enfocado en Python y Data Analy
 Vengo de entornos tecnológicos reales, lo que me permite unir pensamiento analítico, contexto de negocio y habilidades técnicas.
 Actualmente busco oportunidades IT como Junior Data Analyst / Python Developer.
 
-🎯 Current Focus
+## 🎯 Current Focus
 
 📊 Data Analysis con Python
 
@@ -16,7 +16,7 @@ Actualmente busco oportunidades IT como Junior Data Analyst / Python Developer.
 
 🤖 Automatización y fundamentos de IA
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 🐍 Lenguajes & Data
 
 Python
@@ -25,7 +25,7 @@ SQL
 
 JavaScript
 
-📊 Data Analytics & BI
+## 📊 Data Analytics & BI
 
 Power BI
 
@@ -37,7 +37,7 @@ Google Sheets
 
 Microsoft Excel
 
-🌐 Desarrollo Web
+## 🌐 Desarrollo Web
 
 HTML5
 
@@ -47,7 +47,7 @@ React
 
 Node.js
 
-🔧 Tools & Platforms
+## 🔧 Tools & Platforms
 
 Git & GitHub
 
@@ -61,7 +61,7 @@ Lusha
 
 ChatGPT
 
-🔐 IT & Security
+## 🔐 IT & Security
 
 Fundamentos de Ciberseguridad
 
@@ -69,7 +69,7 @@ Kali Linux
 
 Entornos Cloud & Telecom
 
-💼 Professional Background (Resumen)
+## 💼 Professional Background (Resumen)
 
 B2B Tech Sales – Telecom
 
@@ -81,7 +81,7 @@ Comunicación constante con perfiles técnicos y de negocio
 
 Esta experiencia me permite aportar visión real de negocio a proyectos de datos y tecnología.
 
-🚀 What I Bring
+## 🚀 What I Bring
 
 Mentalidad data-driven
 
@@ -91,7 +91,7 @@ Background IT + negocio (poco común en perfiles junior)
 
 Aprendizaje rápido y mejora continua
 
-📌 Looking for
+## 📌 Looking for
 
 Junior / Trainee Data Analyst
 
