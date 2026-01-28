@@ -99,9 +99,9 @@ Python Developer
 
 Roles IT con foco en datos, análisis o automatización
 
-📫 Contact
+📫 Contact  +549865456396
 
-💼 LinkedIn
+💼 LinkedIn  www.linkedin.com/in/marvillafañe
 
 📧 Email: marxco78@gmail.com
 
