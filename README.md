@@ -67,11 +67,11 @@ Fundamentos de Ciberseguridad
 
 Kali Linux
 
-Entornos Cloud & Telecom
+Entornos Cloud
 
 ## 💼 Professional Background (Resumen)
 
-B2B Tech Sales – Telecom
+B2B Tech Sales
 
 Trabajo con soluciones tecnológicas (Cloud, Cybersecurity, IoT)
 
@@ -87,13 +87,13 @@ Mentalidad data-driven
 
 Capacidad de traducir problemas reales en soluciones técnicas
 
-Background IT + negocio (poco común en perfiles junior)
+Background IT + negocio
 
 Aprendizaje rápido y mejora continua
 
 ## 📌 Looking for
 
-Junior / Trainee Data Analyst
+Data Analyst
 
 Python Developer
 
